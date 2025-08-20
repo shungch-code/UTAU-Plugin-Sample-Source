@@ -40,7 +40,7 @@ PBS=0;2
 ---
 ## Credits
 - Original plugin framework by **Ameya/Ayame (2008)**  
-- Modified and translated for research purposes by **Shung-Che Shen (2025)**  
+- Modified and translated for research purposes by **Hung-Che Shen (2025)**  
 ## License
 This source code is provided for **research and educational use**.  
 Further modifications and academic applications are welcome.
